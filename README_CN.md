@@ -80,7 +80,7 @@ repositories {
 
 ### 1,初始化,[key注册地址](http://sdk.aicare.net.cn/register)
 ```
-TpmsSDK.init(this,key,secret);
+booTpmsSDK.init(this,key,secret);
 ```
 
 ### 2,实现TpmsScan.TpmsScanListener方法

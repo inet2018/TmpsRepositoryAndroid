@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
@@ -51,7 +52,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        TpmsSDK.init(this,"8e519a50d30e5e43","00002800140064002b00470036");
+        boolean init = TpmsSDK.init(this, "f36120b9dc0c042e", "00bb9f124ea3de327ed54cfa3e");
+        Log.i("MainActivity","初始化key:"+init);
         L.isDebug = true;
         initData();
         initViews();
