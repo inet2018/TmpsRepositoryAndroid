@@ -1,6 +1,6 @@
 
 # TPMS SDK使用说明 - Android
-
+[![](https://jitpack.io/v/inet2018/TmpsRepositoryAndroid.svg)](https://jitpack.io/#inet2018/TmpsRepositoryAndroid)
 [aar包下载地址](https://github.com/inet2018/TmpsRepositoryAndroid/releases)
 
 [English documentation](README.md)
