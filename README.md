@@ -33,7 +33,7 @@ maven {url 'https://jitpack.io'}
 
 2. Add dependencies
 dependencies {
-implementation 'com.github.inet2018: TmpsRepositoryAndroid: 1.2.0' // Bluetooth library
+implementation 'com.github.inet2018: TmpsRepositoryAndroid: 1.2.1' // Bluetooth library
 
 }
 

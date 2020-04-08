@@ -34,7 +34,7 @@ repositories {
 
 2.添加依赖项
 	dependencies {
-	        implementation 'com.github.inet2018:TmpsRepositoryAndroid:1.2.0'//蓝牙库
+	        implementation 'com.github.inet2018:TmpsRepositoryAndroid:1.2.1'//蓝牙库
 
 	}
 
