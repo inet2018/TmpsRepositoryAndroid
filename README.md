@@ -2,7 +2,7 @@
 
 [aar package download address](https://github.com/inet2018/TmpsRepositoryAndroid/releases)
 
-[English documentation](README.md)
+[中文文档](README_CN.md)
 
 This document is to guide Android developers to integrate TPMS-SDK-Android in Android 4.4 and above systems.
 ## 1. Conditions of use:
